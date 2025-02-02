@@ -356,7 +356,6 @@ header {
     justify-content: center;
     align-items: center;
     gap: var(--clamp-2-base);
-    border: var(--border);
 }
 
 .product__gallery figure {
